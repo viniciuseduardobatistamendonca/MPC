@@ -52,4 +52,17 @@ void loop() {
   digitalWrite (ledamarelo,HIGH);
   delay (3000);
 
+  digitalWrite (ledvermelho,HIGH);
+  digitalWrite (ledverde,LOW);
+  digitalWrite (ledamarelo,LOW);
+  delay (1000);
+  digitalWrite (ledvermelho,LOW);
+  digitalWrite (ledverde,HIGH);
+  digitalWrite (ledamarelo,LOW);
+  delay (1000);
+  digitalWrite (ledvermelho,LOW);
+  digitalWrite (ledverde,LOW);
+  digitalWrite (ledamarelo,HIGH);
+  delay (500);
+
 }
