@@ -1,5 +1,5 @@
 // Autores: Caio Henrique Pardim, Guilherme Hernandes, Silfarny Alexandre, Vinicius Eduardo e Walace Vinicius
-// Projeto referente a avaliação de microcontroladores
+// Projeto referente a avaliação de microprocessadores
 // Professor: Alisson Rodolfo Leite 
 
 int ledvermelho = 0;
