@@ -1,4 +1,4 @@
-// Autores: Caio Henrique Pardim, Guilherme Hernandes, Silfarny Alexandre, Vinicius Eduardo e Walace Vinicius
+// Autores: Caio Henrique Pardim, Guilherme Hernandes, Silfarny Alexandre,Talles Ramos, Vinicius Eduardo e Walace Vinicius
 // Projeto referente a avaliação de microprocessadores
 // Professor: Alisson Rodolfo Leite 
 
